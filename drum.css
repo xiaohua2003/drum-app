@@ -22,7 +22,7 @@ h1 {
 }
 .pressed {
   box-shadow: 0 3px 0 4px #dbedf3;
-  opacity: 0.5;
+  opacity: 0.55;
 }
 .w {
   background-image: url('images/crash.png');
